@@ -34,7 +34,7 @@ This is a Node.js application with MongoDB for managing a food menu system with 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/food-menu-system.git
+   git clone https://github.com/kelbin-jacob/Riolabs-task.git
    cd food-menu-system
    ```
 2. Install dependencies:
